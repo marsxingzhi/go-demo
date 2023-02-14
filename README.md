@@ -1,2 +1,8 @@
 # go-demo
-常用的写法
+
+practise demo
+
+
+### cache   
+
+simple cache library
